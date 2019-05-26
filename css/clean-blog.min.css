@@ -84,3 +84,7 @@ ul.nav.nav-tabs li.active a {
     .col-md-6 {
         width: 25%;
     }
+
+    .card-img-top {
+        height: auto !important;
+    }

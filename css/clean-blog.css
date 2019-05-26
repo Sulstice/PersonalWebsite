@@ -23,6 +23,10 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+.card-img-top {
+   height: 2px !important;
+ }
+
 a {
   color: #212529;
   -webkit-transition: all 0.2s;
