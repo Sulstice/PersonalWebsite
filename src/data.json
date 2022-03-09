@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "domain": "sulstice.github.io",
+    "websiteName": "Personal Website",
+    "keywords": "Drug Hunter Cheminformatics Organic Chemistry Therapeutics"
+  },
+  "pages": {
+    "index": {
+      "title": "",
+      "id": "index",
+      "description": "Drug Hunter - Sulstice",
+      "path": "/",
+      "color": "white"
+    },
+    "flow_field_5": {
+      "title": "Sulstice",
+      "id": "flow_field_5",
+      "description": "I also enjoy lots of other things; Music, Rock Climbing, Hiking, Blogging and Starcraft2",
+      "path": "/sketch/flow_field_5.html",
+      "posted": "Welcome to my website, I am a drug hunter armed with knowledge of organic chemistry, devops, engineering, forcefields and math",
+      "update": "",
+      "color": "white"
+    }
+  }
+}

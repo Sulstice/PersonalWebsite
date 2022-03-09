@@ -1,0 +1,68 @@
+block vars
+
+include ../_mixin/_common.pug
+include ../_mixin/_svg.pug
+
+doctype html
+html(lang="ja")
+  head
+    include ../_layout/_head.pug
+  body
+    .l-page(
+      class = (page.color == "white") ? 'l-page--white' : 'l-page--black',
+      data-id = page.id
+    )
+      block content
+      - if (page.id !== 'index')
+        .p-utility-menu
+          a.c-button(
+            href = "https://github.com/Sulstice/global-chem",
+            class = (page.color == "white") ? 'c-button--white' : 'c-button--black',
+            )
+            span.c-button__icon.c-button__icon--back(
+              class = (page.color == "white") ? 'c-button__icon--white' : 'c-button__icon--black'
+              )
+            span.c-button__label
+              +splitStr('GlobalChem', 'js-split-str')
+          br    
+          a.c-button(
+            href = "https://github.com/mackerell-lab",
+            class = (page.color == "white") ? 'c-button--white' : 'c-button--black',
+            )
+            span.c-button__icon.c-button__icon--back(
+              class = (page.color == "white") ? 'c-button__icon--white' : 'c-button__icon--black'
+              )
+            span.c-button__label
+              +splitStr('PhD', 'js-split-str')
+          br
+          a.c-button(
+            href = "https://sharifsuliman1.medium.com/",
+            class = (page.color == "white") ? 'c-button--white' : 'c-button--black',
+            )
+              span.c-button__icon.c-button__icon--back(
+              class = (page.color == "white") ? 'c-button__icon--white' : 'c-button__icon--black'
+              )
+              span.c-button__label
+                +splitStr('Blog', 'js-split-str')
+          br
+          a.c-button(
+            href = "https://soundcloud.com/happylettuce/tracks",
+            class = (page.color == "white") ? 'c-button--white' : 'c-button--black',
+            )
+              span.c-button__icon.c-button__icon--back(
+              class = (page.color == "white") ? 'c-button__icon--white' : 'c-button__icon--black'
+              )
+              span.c-button__label
+              +splitStr('Music', 'js-split-str')
+          br
+          a.c-button(
+            href = "https://github.com/Sulstice/Resumes/blob/main/resumes/suls_resume_2020.pdf",
+            class = (page.color == "white") ? 'c-button--white' : 'c-button--black',
+            )
+              span.c-button__icon.c-button__icon--back(
+              class = (page.color == "white") ? 'c-button__icon--white' : 'c-button__icon--black'
+              )
+              span.c-button__label
+              +splitStr('Resume', 'js-split-str')
+    block scripts
+    script(src="/sketch-threejs/js/main.js")
