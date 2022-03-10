@@ -1,14 +1,16 @@
 {
-  "name": "sketch-threejs.js",
+  "homepage": "https://sulstice.github.io/PersonalWebsite/",
+  "name": "PersonalWebsite",
   "version": "2.0.0",
-  "description": "it's my personal sketch made with three.js.",
+  "description": "It's My Personal Website",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ykob/sketch-threejs"
+    "url": "https://github.com/Sulstice/PersonalWebsite/"
   },
-  "private": true,
   "scripts": {
     "start": "npm run dev",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "cross-env NODE_ENV=development gulp",
     "build": "cross-env NODE_ENV=production gulp build"
   },
@@ -26,6 +28,7 @@
     "browser-sync": "^2.26.14",
     "cross-env": "^7.0.3",
     "del": "^6.0.0",
+    "gh-pages": "^3.2.3",
     "glslify-import-loader": "^0.1.2",
     "glslify-loader": "^2.0.0",
     "gulp": "^4.0.2",

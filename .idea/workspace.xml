@@ -2,113 +2,168 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66033a0-0cf7-422f-8251-b53824791e97" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/BlogPost1.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/BlogPost2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/BlogPost3.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/blogStyles.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/clean-blog.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/clean-blog.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/FullShot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/Hydroxylamine.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/about-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/chichenitza.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/compilerScreenshot.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/contact-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/cubeimage.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/hurricane_hill_trail.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/information_screen.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/insertion.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/maygroup.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/mthood.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/mthoodPeak2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/proteinMolecule.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/rocksLA.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/smileyChem.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/yellowstone.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/clean-blog.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/clean-blog.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/contact_me.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/contact_me.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/mail/contact_me.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/nature.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/post.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projects.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_bootstrap-overrides.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_contact.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_footer.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_global.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_masthead.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_navbar.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_post.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scss/clean-blog.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/animated.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/core.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/fixed-width.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/font-awesome.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/icons.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/larger.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/list.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/path.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/screen-reader.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/stacked.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/variables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_animated.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_core.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_icons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_larger.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_list.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_path.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_screen-reader.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/app_icon.png" afterPath="$PROJECT_DIR$/docs/img/common/app_icon.png" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_attract.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_attract.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_aura.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_aura.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_beam.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_beam.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_blink.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_blink.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_buddha.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_buddha.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_burn.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_burn.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_butterfly.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_butterfly.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_comet.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_comet.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_common.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_common.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_crystal.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_crystal.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_cyberspace.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_cyberspace.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_dissolve.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_dissolve.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_distort.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_distort.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_dna.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_dna.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_easy_glitch.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_easy_glitch.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_egg.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_egg.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_fire_ball.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_fire_ball.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_fire_ball_2.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_fire_ball_2.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_flame.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_flame.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_flow_field.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_flow_field.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_flow_field_2.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_flow_field_2.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_flow_field_3.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_flow_field_3.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_flow_field_4.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_flow_field_4.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_flow_field_5.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_flow_field_5.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_fog.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_fog.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_gallery.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_gallery.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_glass.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_glass.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_glitch.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_glitch.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_hole.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_hole.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_hyper_space.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_hyper_space.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_image_data.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_image_data.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_instancing.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_instancing.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_land.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_land.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_metal_cube.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_metal_cube.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_newyear2019.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_newyear2019.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_node.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_node.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_node_text.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_node_text.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_particle.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_particle.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_planet.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_planet.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_puddle.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_puddle.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_reel.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_reel.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_repel.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_repel.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_skull.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_skull.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_splash.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_splash.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_sun.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_sun.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_transform.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_transform.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_water.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_water.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/common/ogp_webcam.jpg" afterPath="$PROJECT_DIR$/docs/img/common/ogp_webcam.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/index/tex_title.png" afterPath="$PROJECT_DIR$/docs/img/index/tex_title.png" />
+      <change beforePath="$PROJECT_DIR$/docs/img/model/buddha/buddha_ao.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/buddha/hannya_text.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/burn/image01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/burn/image02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/burn/image03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/burn/noise.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/butterfly/tex.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/crystal/fog.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/crystal/fog.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/crystal/normal.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/crystal/surface.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/cyberspace/tex_gui01.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/cyberspace/tex_gui02.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/cyberspace/tex_gui03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/dissolve/osaka01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/dissolve/osaka02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/dissolve/osaka03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/dissolve/osaka04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/dissolve/osaka05.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/easy_glitch/noise.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/easy_glitch/typo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/flow_field/noise.jpg" afterPath="$PROJECT_DIR$/docs/img/sketch/flow_field/noise.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/fog/fog.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/gallery/image01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/gallery/image02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/gallery/image03.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/gallery/image04.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/gallery/image05.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/gallery/image06.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/gallery/image07.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/gallery/image08.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/gallery/image09.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/glass/landscape.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/glass/noise.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/glass/roughness.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/glitch/osaka.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/image_data/elephant.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/instancing/cubemap_nx.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/instancing/cubemap_ny.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/instancing/cubemap_nz.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/instancing/cubemap_px.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/instancing/cubemap_py.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/instancing/cubemap_pz.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/newyear2019/typo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/splash/noise.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/sun/core.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/sun/core_normal.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/sun/sunshine.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/transform/flower.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/transform/tex.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/water/image.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/img/sketch/water/normal.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change beforePath="$PROJECT_DIR$/docs/js/main.js.LICENSE.min.txt" afterPath="$PROJECT_DIR$/docs/js/main.js.LICENSE.min.txt" />
+      <change beforePath="$PROJECT_DIR$/docs/js/main.min.js" afterPath="$PROJECT_DIR$/docs/js/main.min.js" />
+      <change beforePath="$PROJECT_DIR$/docs/model/buddha/buddha_ao.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/model/buddha/buddha_head.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/model/crystal/crystal.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/model/glass/glass.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/model/newyear2019/boar_head.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/model/skull/SkullHead.obj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/attract.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/aura.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/beam.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/blink.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/buddha.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/burn.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/butterfly.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/comet.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/crystal.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/cyberspace.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/dissolve.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/distort.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/dna.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/easy_glitch.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/egg.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/fire_ball.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/fire_ball_2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/flame.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/flow_field.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/flow_field_2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/flow_field_3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/flow_field_4.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/flow_field_5.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/fog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/gallery.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/glass.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/glitch.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/hole.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/hyper_space.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/image_data.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/instancing.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/land.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/metal_cube.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/newyear2019.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/node.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/node_text.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/particle.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/planet.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/puddle.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/reel.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/repel.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/skull.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/splash.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/sun.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/transform.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/water.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/sketch/webcam.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -117,12 +172,33 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -321,15 +397,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646867080976</updated>
-      <workItem from="1646867082768" duration="269000" />
+      <workItem from="1646867082768" duration="1218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="269000" />
+    <option name="totallyTimeSpent" value="1218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -340,10 +417,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2761194" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -370,6 +447,16 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
